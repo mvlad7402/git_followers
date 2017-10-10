@@ -1,1 +1,1 @@
-web: gunicorn git_follow:app
+web: gunicorn appl:app
