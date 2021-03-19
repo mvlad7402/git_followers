@@ -7,7 +7,7 @@ Flask-RESTful==0.3.6
 gunicorn==19.7.1
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 MarkupSafe==1.0
 PyGithub==1.35
 PyJWT==1.5.3
